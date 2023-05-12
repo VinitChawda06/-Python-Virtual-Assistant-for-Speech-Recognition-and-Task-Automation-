@@ -1,0 +1,2 @@
+# -Python-Virtual-Assistant-for-Speech-Recognition-and-Task-Automation-
+Python Virtual Assistant for Speech Recognition and Task Automation is a user-friendly project that performs various tasks via voice commands. Using Python libraries, it listens to users' commands, searches Wikipedia, plays music, opens web pages, and tells the time. The simple and efficient interface saves users time and effort.
