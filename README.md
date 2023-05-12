@@ -17,7 +17,7 @@ pip install SpeechRecognition pyttsx3 wikipedia
 ## Usage
 To run the script, simply open your terminal or command prompt, navigate to the directory where the script is located, and type the following command:
 ```
-python virtual_assistant.py
+python stage_1.py
 ```
 
 After running the script, the virtual assistant will greet you and ask how it can assist you. You can then speak your commands, such as "open YouTube" or "what's the time?", and the virtual assistant will perform the corresponding tasks.
